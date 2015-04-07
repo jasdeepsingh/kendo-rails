@@ -25,7 +25,7 @@ kendo-rails has not been tested against any other versions of these libraries. Y
 
 In your Gemfile, add this line:
 
-    gem 'kendo-rails'
+    gem 'kendoui-rails'
 
 Then, run `bundle install`. 
 
